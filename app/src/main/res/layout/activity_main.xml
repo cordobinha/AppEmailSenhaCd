@@ -38,6 +38,7 @@
         android:text="Fazer login" />
 
     <Button
+        android:onClick="signUp"
         android:id="@+id/buttonCadastrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -38,6 +38,7 @@
     <Button
         android:id="@+id/buttonConfirma"
         android:text="confirmação"
+        android:onClick="signUpFB"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
